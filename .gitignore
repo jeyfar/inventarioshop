@@ -21,4 +21,7 @@ build/
 *.zip
 scripts/
 styles/
+
+# Documentación personal (no subir al repo)
+CONTENIDO-PARA-PDF.md
 node_modules/
