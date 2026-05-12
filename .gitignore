@@ -1,0 +1,24 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos del IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Dependencias (si las hubiera)
+node_modules/
+
+# Archivos de build (si los hubiera)
+dist/
+build/
+
+# Archivos de log
+*.log
+
+# Archivos de backup y temporales
+*.zip
+scripts/
+styles/
+node_modules/
